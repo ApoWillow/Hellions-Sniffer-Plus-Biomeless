@@ -9,4 +9,3 @@ Welcome to Hellion's Sniffer+! This is a 1.20 Expansion mod building on features
 - Sniffers can be given an Ominous Banner to carry you to the nearest Outpost
 - Several new plants including Ivy, Stone Pine Trees, and Fiddleferns
 - Torchflowers now emit light, earning themselves their name
-- And an entirely new cave biome, the Timeless Grotto
